@@ -22,13 +22,13 @@
 <p>
   <img src="assets/Python-Dark.svg"    height="40" alt="Python" />
   <img src="assets/Matlab-Dark.svg"    height="40" alt="MATLAB" />
-  <img src="assets/Pytorch-Dark.svg"   height="40" alt="PyTorch" />
+  <img src="assets/PyTorch-Dark.svg"   height="40" alt="PyTorch" />
   <img src="assets/Jax-Dark.svg"       height="40" alt="JAX" />
   <img src="assets/Numpy-Dark.svg"     height="40" alt="NumPy" />
-  <img src="assets/Scikitlearn-Dark.svg" height="40" alt="scikit-learn" />
+  <img src="assets/ScikitLearn-Dark.svg" height="40" alt="scikit-learn" />
 </p>
 <p>
-  <img src="assets/Opencv-Dark.svg"    height="40" alt="OpenCV" />
+  <img src="assets/OpenCV-Dark.svg"    height="40" alt="OpenCV" />
   <img src="assets/Pandas-Dark.svg"    height="40" alt="Pandas" />
   <img src="assets/Scipy-Dark.svg"     height="40" alt="SciPy" />
   <img src="assets/Git-Dark.svg"       height="40" alt="Git" />
