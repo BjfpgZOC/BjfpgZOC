@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🎓 **MSc, Robotics, Systems and Control @ ETH Zurich (2022–2025)**   
 - 🔬 **Research**: State-space models for efficient RL in quadrotors; event-camera optical flow; diffusion models (LoRA) for product imagery.  
-- 🌐 **Portfolio**: <a href="https://bjfpgzoc.github.io" target="_blank">bjfpgzoc.github.io</a>
+- 🌐 **Portfolio**: <a href="https://www.gokulraju.com/" target="_blank">www.gokulraju.com</a>
 
 ---
 
